@@ -26,4 +26,14 @@ dependencies {
 
     compile 'com.github.scribejava:scribejava-apis:2.8.1' //https://github.com/scribejava/scribejava
 
+    compile 'com.squareup.picasso:picasso:2.5.2'//https://github.com/square/picasso
+
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'//https://github.com/square/retrofit
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'//https://github.com/square/retrofit
+
+    compile 'com.liulishuo.filedownloader:library:0.3.3'//https://github.com/lingochamp/FileDownloader
+
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.8.8'//https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+
+
 }
