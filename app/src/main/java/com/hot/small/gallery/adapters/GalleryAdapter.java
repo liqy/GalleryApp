@@ -1,9 +1,9 @@
-package com.hot.small.gallery.adapter;
+package com.hot.small.gallery.adapters;
 
 import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.chad.library.adapter.base.BaseViewHolder;
 import com.hot.small.gallery.R;
-import com.hot.small.gallery.model.Photo;
+import com.hot.small.gallery.models.Photo;
 
 import java.util.ArrayList;
 
